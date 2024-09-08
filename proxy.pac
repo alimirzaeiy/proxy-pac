@@ -19,7 +19,6 @@ function FindProxyForURL(url, host) {
         "*.digikala.com",
         "*.ifilo.net",
         "*.p30world.com",
-        "*.spotify.com"
         "185.*"
     ];
 
